@@ -1,0 +1,4 @@
+sv1;Nguyen Van Nam;Sat Feb 01 00:00:00 ICT 2003;5.0;4.0;4.5
+sv2;Hoang Thi An;Sat Feb 02 00:00:00 ICT 2002;4.5;4.5;4.5
+sv3;Tran Thanh Mai;Tue Feb 29 00:00:00 ICT 2000;2.5;4.5;3.5
+sv4;Hoang Le Anh;Thu May 11 00:00:00 ICT 2000;5.0;6.0;5.5

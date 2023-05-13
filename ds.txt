@@ -1,0 +1,7 @@
+sv1;Nguyen Van Nam;01/02/2003;5.0;4.0;
+sv2;Hoang Thi An;02/02/2002;4.5;4.5;
+sv3;Tran Thanh Mai;29/02/2000;2.5;4.5;
+sv4;Hoang Le Anh;11/05/2000;5.0;6.0;
+nv1;Nguyen Minh Anh;15/04/1994;3.0;
+nv2;Le Bao Nam;25/12/1999;4.5;
+nv3;Tran Van Duong;22/05/1996;2.0;

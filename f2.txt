@@ -1,0 +1,3 @@
+nv1;Nguyen Minh Anh;Fri Apr 15 00:00:00 ICT 1994;3.0;4800000.0
+nv2;Le Bao Nam;Sat Dec 25 00:00:00 ICT 1999;4.5;7200000.0
+nv3;Tran Van Duong;Wed May 22 00:00:00 ICT 1996;2.0;3200000.0
